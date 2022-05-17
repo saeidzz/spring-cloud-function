@@ -1,4 +1,4 @@
-package com.example.samplefunction;
+package com.example.samplefunction.model;
 
 public class TollStation {
     private String stationId;
